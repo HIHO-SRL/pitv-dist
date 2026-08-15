@@ -18,7 +18,7 @@
     "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz"
   ],
   "apk": {
-    "manifesto": "https://raw.githubusercontent.com/hihosrl/pitv-dist/main/versione.json",
-    "file": "https://raw.githubusercontent.com/hihosrl/pitv-dist/main/pitv.apk"
+    "manifesto": "https://raw.githubusercontent.com/HIHO-SRL/pitv-dist/main/versione.json",
+    "file": "https://raw.githubusercontent.com/HIHO-SRL/pitv-dist/main/pitv.apk"
   }
 }
